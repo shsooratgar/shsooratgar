@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 Finishing up my bachelor's at AUT (Amirkabir Univeristy of Technology)
-- 🌱 I’m currently learning  Computer Vision ,data mining , Robotics and real-time embedded systems
+- 🌱 I’m currently learning  Computer Vision ,Data Mining ,Machine Learning and Robotics
 - 👯 I’m looking to collaborate on more machine learning and AI related projects
 - ⚡ Fun fact: not that kind of person
 
