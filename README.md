@@ -1,27 +1,41 @@
-### Hi there 👋
-- 🔭 masters degree in informatik
-- 🌱 I’m currently learning  Computer Vision ,Data Mining ,Machine Learning and Robotics
-- 👯 I’m looking to collaborate on more machine learning and AI related projects
-- ⚡ Fun fact: not that kind of person
+# 👋 Hi, I'm Shayan
 
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![numpy](https://img.shields.io/badge/-numpy-3776AB?style=for-the-badge&logo=numpy)
+🎓 MSc Informatics student (AI major, Data Science minor) at University of Zürich & ETH Zürich  
+🧠 AI & Data Science enthusiast | 🐍 Python developer  
+🔬 Passionate about building intelligent systems that solve real-world problems
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-EEEEEE?style=for-the-badge&logo=react&logoColor=grey)
-![Redis](https://img.shields.io/badge/-Redis-47A248?style=for-the-badge&logo=redis)
+---
 
-![Latex](https://img.shields.io/badge/Latex-E95420?style=for-the-badge&logo=latex)
-![vim](https://img.shields.io/badge/Vim-E95420?style=for-the-badge&logo=vim)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+## 🛠 Tech Stack
+
+**Languages**  
+Python, Java, JavaScript  
+
+**Practices**  
+Clean Code, OOP, Design Patterns, Unit Testing, Agile, CI/CD  
+
+---
+
+## 💼 Experience
+
+- **Python Developer** @ Behfa  
+  Built a pipeline simulation tool for real-time industrial gas and fluid flow modeling.
+
+- **AI Research Intern** @ IP-CO  
+  Developed image segmentation for car engine assembly automation.
+
+- **Teaching Assistant**  
+  Assisted in teaching *Principles of AI* at Amirkabir University.
+
+---
 
 
-#### Find me here!
-[![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shsooratgar@aut.ac.ir)
-<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/behdad-mansouri-36637715a/) -->
+## 📬 Get in Touch
 
+- ✉️ ssooratgar@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shayan-sooratgar)  
 
+---
+
+Thanks for stopping by!  
+Always happy to collaborate on AI, data science, or open-source projects.
