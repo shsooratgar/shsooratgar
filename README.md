@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack
 
 **Languages**  
-Python, Java, JavaScript  
+Python, Java, C
 
 **Practices**  
 Clean Code, OOP, Design Patterns, Unit Testing, Agile, CI/CD  
@@ -17,15 +17,15 @@ Clean Code, OOP, Design Patterns, Unit Testing, Agile, CI/CD
 ---
 
 ## 💼 Experience
-
+- **Data Scientist/Research Assistant** @ ETH  
+  Chair of Strategic Management and Innovation (Prof. Dr. Georg von Krogh)
+  
 - **Python Developer** @ Behfa  
   Built a pipeline simulation tool for real-time industrial gas and fluid flow modeling.
 
 - **AI Research Intern** @ IP-CO  
   Developed image segmentation for car engine assembly automation.
 
-- **Teaching Assistant**  
-  Assisted in teaching *Principles of AI* at Amirkabir University.
 
 ---
 
